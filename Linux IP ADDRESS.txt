@@ -1,0 +1,10 @@
+centos ip address -- 192.168.29.167
+
+Ubuntu ip address -- 192.168.29.251
+
+
+
+
+service ssh status
+
+sudo apt install ssh
